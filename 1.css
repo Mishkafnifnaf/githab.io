@@ -123,8 +123,8 @@ text-indent: 20px;
 
 .slider{
 	position: relative;
-	width: 800px;
-	height: 600px;
+	width: 90%;
+/* 	height: 600px; */
 	margin: auto;
 	margin-bottom: 15px;
 	overflow: hidden;
