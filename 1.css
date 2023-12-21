@@ -202,3 +202,18 @@ input[name="r"]{
 	background: #AA1803;
 
 }
+
+footer{
+background: #1D0F0F;
+height: 200px;
+color: #D4DBE2;
+position: relative;
+}
+
+footer div{
+	position: absolute;
+	left: 50%;
+	top:50%	;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
